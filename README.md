@@ -2,7 +2,7 @@
 
 https://llama-up.web.app/
 
-![image](https://user-images.githubusercontent.com/901975/222944052-8b08dee5-c90c-4618-8bac-39046daa05da.png)
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/901975/222944102-0566aebf-5ff8-40ab-a563-cca47db32d70.png">
 
 LLAMA Up is here! Our goal is to offer you a fun and free to access the 7B version on a V100 instance on Kubernetes cluster (GKE, AKS, or EKS).
 
